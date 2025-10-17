@@ -18,9 +18,7 @@ Aplicativo Flutter de **telemetria em tempo real** que coleta e exibe dados de G
 - 📈 **Métricas avançadas** (velocidade máx/média, distância, tempo de sessão)
 - 🗺️ **Mapa interativo** com marcador rotativo baseado na direção
 
-## 🚀 Demo em Vídeo
-
-> 📱 *Grave um vídeo de 30-60s mostrando o app funcionando*
+  
 
 ## 🏗️ Arquitetura & Tecnologias
 
@@ -155,17 +153,7 @@ Este projeto foi desenvolvido como **demonstração técnica** focando em:
 3. **Validação de GPS**: Implementei filtros customizados para dados mais confiáveis
 4. **UI Responsiva**: Painel deslizante para aproveitar melhor o espaço da tela
 
----
 
-## 📞 Contato
-
-**Desenvolvido por:** [Seu Nome]  
-**Email:** [seu.email@exemplo.com]  
-**LinkedIn:** [linkedin.com/in/seu-perfil]  
-
----
-
-<div align="center">
 
 **Feito com ❤️ e Flutter**
 
